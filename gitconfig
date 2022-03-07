@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = yujizcat@outlook.com
+	name = yuji zhou
